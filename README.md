@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tarankalra1211
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Tarankalra
+- 👀 I’m interested in  Devlopment,deployement and Data engineering
+- 🌱 I’m currently learning  Devlopment 
+- 💞️ I’m looking to collaborate on Building websites
+
 
 <!---
 Tarankalra1211/Tarankalra1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
